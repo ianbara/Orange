@@ -1,0 +1,37 @@
+﻿.marg-t {
+  margin-top: 10px;
+}
+.marg-l {
+  margin-left: 10px;
+}
+.marg-b {
+  margin-bottom: 10px;
+}
+.marg-r {
+  margin-right: 10px;
+}
+.marg-all {
+  margin: 10px;
+}
+.marg-none {
+  margin: 0px;
+}
+.pad-t {
+  padding-top: 10px;
+}
+.pad-l {
+  padding-left: 10px;
+}
+.pad-b {
+  padding-bottom: 10px;
+}
+.pad-r {
+  padding-right: 10px;
+}
+.pad-all {
+  padding: 10px;
+}
+.pad-none {
+  padding: 0;
+}
+/*# sourceMappingURL=margins.css.map */
